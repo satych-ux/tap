@@ -1,0 +1,2 @@
+C:/Users/FWG374/Documents/pers/tap_1/android/app/.cxx/RelWithDebInfo/33534z6a/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/FWG374/Documents/pers/tap_1/android/app/.cxx/RelWithDebInfo/33534z6a/x86_64/CMakeFiles/rebuild_cache.dir
