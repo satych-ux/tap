@@ -1,6 +1,6 @@
 # tap_1
 
-A new Flutter project.
+A Fintech App
 
 ## Getting Started
 
